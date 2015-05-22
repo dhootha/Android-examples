@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UiAllignment</string>
+
+    <string name="one">Earth</string>
+    <string name="two">South</string>
+    <string name="three">North</string>
+    <string name="four">West</string>
+    <string name="five">East</string>
+    <string name="action_settings">Settings</string>
+</resources>
